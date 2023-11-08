@@ -76,3 +76,5 @@ Packages/manifest.json
 *.txt
 ProyectoTemasSelectos3/Library/PackageCache/
 *.settings
+ProyectoTemasSelectos3/ProjectSettings/Physics2DSettings.asset
+ProyectoTemasSelectos3/ProjectSettings/PresetManager.asset
